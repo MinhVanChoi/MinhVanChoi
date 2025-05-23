@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Xin chào, mình là Văn!
 
 🎯 Mục tiêu của mình là phát triển các sản phẩm công nghệ hữu ích và học hỏi không ngừng.  
