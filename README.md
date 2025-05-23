@@ -3,8 +3,8 @@
 # 👋 Xin chào, mình là Văn!
 
 🎯 Mục tiêu của mình là phát triển các sản phẩm công nghệ hữu ích và học hỏi không ngừng.  
-💻 Hiện tại mình học tập trong lĩnh vực: Website.  
-🌱 Mình đang tìm hiểu thêm về: Java, Python, .
+💻 Hiện tại mình học tập trong lĩnh vực: Công nghệ phần mềm.  
+🌱 Mình đang tìm hiểu thêm về: Java, Python, C++ .
 
 ## 🚀 Một chút về mình:
 
