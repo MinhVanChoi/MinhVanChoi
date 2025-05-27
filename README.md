@@ -2,7 +2,7 @@
 
 🎯 Mục tiêu của mình là phát triển các sản phẩm công nghệ hữu ích và học hỏi không ngừng.  
 💻 Hiện tại mình học tập trong lĩnh vực: Công nghệ phần mềm.  
-🌱 Mình đang tìm hiểu thêm về: Java, Python, C++ .
+⭐ Mình đang tìm hiểu thêm về: Java, Python, C++ .
 
 ## 🚀 Một chút về mình:
 
@@ -26,4 +26,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=MinhVanChoi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-⭐️ Cảm ơn bạn đã ghé thăm hồ sơ của mình!
