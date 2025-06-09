@@ -6,7 +6,7 @@
 
 ## 🚀 Một chút về mình:
 
-- 🔭 Dự án hiện tại: HCMUTE-CARE
+- 🔭 Dự án hiện tại: MeeJob
 - 📫 Liên hệ với mình: choiminhvan@gmail.com
 - ⚡ Fun fact: Người Hàn nhưng ít nói tiếng Hàn
 
