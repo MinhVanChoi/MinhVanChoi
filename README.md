@@ -1,28 +1,37 @@
-# 👋 Xin chào, mình là Văn!
+# 👋 Hi, I'm Văn!
 
-🎯 Mục tiêu của mình là phát triển các sản phẩm công nghệ hữu ích và học hỏi không ngừng.  
-💻 Hiện tại mình học tập trong lĩnh vực: Công nghệ phần mềm.  
-⭐ Mình đang tìm hiểu thêm về: Java, Python, C++ .
+🎯 My goal is to develop useful tech products and keep learning continuously.  
+💻 Currently studying: Software Engineering.  
+⭐ I'm exploring: Java, Python, C++.
 
-## 🚀 Một chút về mình:
+## 🚀 A bit about me:
 
-- 🔭 Dự án hiện tại: MeeJob
-- 📫 Liên hệ với mình: choiminhvan@gmail.com
-- ⚡ Fun fact: Người Hàn nhưng ít nói tiếng Hàn
+- 🔭 Current project: MeeJob  
+- 📫 Contact me: choiminhvan@gmail.com  
+- ⚡ Fun fact: Korean but rarely speak Korean
 
-## 🛠️ Công nghệ & công cụ mình đã sử dụng:
+## 🛠️ Languages, Technologies & Tools I’ve used:
+
+### 👨‍💻 Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
+### ⚙️ Technologies
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-## 📊 Thống kê GitHub của mình:
+### 🧰 Tools
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
+
+## 📊 My GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MinhVanChoi&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MinhVanChoi&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhVanChoi&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MinhVanChoi&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=MinhVanChoi&icon=0&color=0)](https://visitcount.itsvg.in)
