@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Văn!
 
-🎯 My goal is to develop useful tech products and keep learning continuously.  
-💻 Currently studying: Software Engineering.  
-⭐ I'm exploring: Java, Python, C++.
+- 🎯 My goal is to develop useful tech products and keep learning continuously.  
+- 💻 Currently studying: Software Engineering.  
+- ⭐ I'm exploring: Java, Python, C++.
 
 ## 🚀 A bit about me:
 
