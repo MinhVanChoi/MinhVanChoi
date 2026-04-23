@@ -2,7 +2,7 @@
 
 - 🎯 My goal is to develop useful tech products and keep learning continuously.  
 - 💻 Currently studying: Software Engineering.  
-- ⭐ I'm exploring: Java, Python, C++.
+- ⭐ I'm exploring: Java, Python, C++, C#.
 
 ## 🚀 A bit about me:
 
