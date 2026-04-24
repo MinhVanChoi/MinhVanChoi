@@ -7,8 +7,10 @@
 ## 🚀 A bit about me:
 
 - 🔭 Current project: MeeJob  
+- 💼 Currently working as an AI Engineer Intern at FPT Software
+- 🧪 Also researching: PLC systems for detecting and picking defective products
+- ⚡ Fun fact: Korean, but I rarely speak Korean
 - 📫 Contact me: choiminhvan@gmail.com  
-- ⚡ Fun fact: Korean but rarely speak Korean
 
 ## 🛠️ Languages, Technologies & Tools I’ve used:
 
